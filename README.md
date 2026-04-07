@@ -46,3 +46,21 @@ public class Contador {
 	}
 }
 ```
+
+## Resposta
+
+Resposta do exercício se encontra em `src/Contador.java` e foi criado também a classe `src/ParametrosInvalidosException.java` conforme solicitado no exercício.
+
+## Exemplos de execução 
+
+### Exemplo 1: 
+
+- Primeiro parâmetro menor que o segundo.
+
+![alt text](image.png)
+
+### Exemplo 2:
+
+- Primeiro parâmetro maior que o segundo.
+
+![alt text](image-1.png)
